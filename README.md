@@ -10,8 +10,6 @@
   <p align="center">
     Static clone site of AirBnb Online Experiences that made with React.
     <br />
-    <a href="https://github.com/tarikbzcoglu/airbnbclone"><strong>Explore the docs »</strong></a>
-    <br />
    
   </p>
 </div>
