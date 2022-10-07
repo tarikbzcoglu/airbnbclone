@@ -14,12 +14,3 @@
   </p>
 </div>
 
-
-
-
-
-
-### Built With
-
-* [![React][React.js]][reactjs.org]
-
