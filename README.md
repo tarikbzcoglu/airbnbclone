@@ -19,8 +19,7 @@
 
 
 
-### Build with
-
+### Built With
 
 * [![React][React.js]][React-url]
 
