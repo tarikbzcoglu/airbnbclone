@@ -13,4 +13,8 @@
   
   
   <a href="https://ibb.co/pjqxZHs"><img src="https://i.ibb.co/3mK7Wx8/screenshot.jpg" alt="screenshot" border="0" /></a>
+  
+  <h3>References</h3>
+<li>Bob Ziroll</li>
+<li>Bob Ziroll's React course</li>
 </div>
